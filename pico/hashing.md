@@ -73,6 +73,9 @@ And there you go, the flag has been found folks! \
 <img width="600" height="102" alt="image" src="https://github.com/user-attachments/assets/541d11f2-ad84-4b50-9f71-3b08ec5d751a" /> \
 ```picoCTF{UseStr0nG_h@shEs_&PaSswDs!_eb2f8459}```
 
+> [!NOTE]
+> You can use **hashid** to find out whether the hash is md-5, sha1, or even sha256.\
+> For example: hashid (enter hash)
 
 
 
